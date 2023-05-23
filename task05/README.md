@@ -29,6 +29,7 @@ Save the screenshot image overwriting `task05/problem1.png`
 ![problem1](problem1.png)
 
 
+
 ## Problem 2
 
 This program means to compute deformation of skirt as a mass-spring system. The total energy of the system is shown in the standard output. And that energy should be minimized.
@@ -40,10 +41,11 @@ Write a few lines of code around `line #31` to accelerate the search. After runn
 You may need to adjust the learning rate at `line #76` to reach the convergence. 
 
 ![problem2](problem2.png)
+![](2023-05-22-11-56-10.png)
 
 Write down the converged minimum value of the energy by updating the text below.
 
-***minimum energy of the system = ????***
+***minimum energy of the system = -25.0234***
 
 
 ## After Doing the Assignment
