@@ -38,6 +38,7 @@ The current code does not compute the hessian of the elastic energy of the sprin
 Write a few lines of code around `line #52` to compute hessian accurately. After running the program for a while, save the screenshot image overwriting `task06/problem2.png`
 
 ![problem2](problem2.png)
+![](2023-06-06-16-44-37.png)
 
 Write down the converged minimum value of the energy by updating the text below.
 
