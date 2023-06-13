@@ -40,7 +40,7 @@ Write a few lines of code around `line #27` to minimize Dirichlet's energy using
 Save the screenshot image overwriting `task07/problem2.png`
 
 ![problem2](problem2.png)
-
+![](2023-06-13-18-21-21.png)
 
 ## After Doing the Assignment
 
