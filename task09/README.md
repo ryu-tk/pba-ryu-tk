@@ -43,10 +43,10 @@ Write one line of code for translation and rotation respectively.
 Save the screenshot image overwriting `task09/problem2.png`
 
 ![problem2](problem2.png)
-
+![](2023-06-29-04-05-50.png)
 Run the program for a while to let the minimization converge. Write down the converged energy shown in standard output below. 
 
-***energy: == ?????***
+***energy: == -5365.99***
 
 ## After Doing the Assignment
 
