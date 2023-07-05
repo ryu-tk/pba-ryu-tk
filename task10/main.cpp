@@ -107,8 +107,12 @@ int main() {
         time += dt;
         // Write some code below to simulate rotation of the rigid body
         // Use the **forward Euler method** to update the rotation matrix and the angular velocity
-        // rotation =
-        // Omega =
+        Eigen::Matrix3f skewOmega;
+        skewOmega  <<  0, -Omega(2), Omega(1),
+                       Omega(2), 0, -Omega(0),
+                       -Omega(1), Omega(0), 0;
+        rotation += dt * rotation * skewOmega; 
+        Omega += dt * (-inertia.inverse() * skewOmega * inertia * Omega); 
         // Do not change anything else except for the two lines above.
       }
       std::cout << "time: " << time << std::endl;

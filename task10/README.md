@@ -26,8 +26,8 @@ Now you are ready to go!
 Run the code. Take a screenshot image. 
 Save the screenshot image overwriting `task10/problem1.png`
 
-![problem1](problem1.png)
 
+![](2023-07-05-23-29-57.png)
 
 ## Problem 2
 
@@ -39,7 +39,8 @@ The energy and the angular momentum should preserve for some extent.
 
 Wait until the program stops after simulating the motion until `time=200`. Save the screenshot image overwriting `task10/problem2.png`
 
-![problem2](problem2.png)
+
+![](2023-07-06-03-25-54.png)
 
 ## After Doing the Assignment
 
